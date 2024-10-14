@@ -1,1 +1,1 @@
-# minpro2_PBO
+#PBO Manajemen Kepengurusan Masjid (Minpro 2)
