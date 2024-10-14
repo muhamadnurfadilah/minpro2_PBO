@@ -9,7 +9,7 @@ Program ini di rancang bertujuan untuk mempermudah proses pengelolaan manajemen 
 Pada program ini, terbagi menjadi dua package (masjid dan main) pada bagian package main terdapat satu class yaitu (main), kemudian pada bagian package masjid terdapat lima class yaitu (Ketua, Bendahara, Pengurus,ManajemenPengurus,CRUDpengurus), Berikut adalah struktur folder dari proyek ini:
 -  main   > main.java
 -  masjid > Ketua.java
--  
+  
           > Bendahara.java
    
           > Pengurus.java
